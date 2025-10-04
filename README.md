@@ -1,13 +1,13 @@
 ![MasterHead](https://img.freepik.com/free-vector/app-development-banner_33099-1720.jpg?t=st=1744010305~exp=1744013905~hmac=5ce01004835de72fb8c6e5d57146534a83f76e450b1a2141b2d097f1a3275b1d&w=1380)
 <h1 align="center">Hi 👋, I'm Dipta Roy Chowdhury</h1>
-<h3 align="center">A passionate Android Engineer</h3>
+<h3 align="center">A passionate as an IOS Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ractordipta&label=Profile%20views&color=0e75b6&style=flat" alt="ractordipta" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Expanse Tracker**
+- 🔭 I’m currently working on **BMI Calculator, Egg Timer**
 
-- 🌱 I’m currently learning **Kotlin,React Native**
+- 🌱 I’m currently learning **Swift,SwiftUI,Xcode**
 
 - 👯 I’m looking to collaborate on **Google**
 
