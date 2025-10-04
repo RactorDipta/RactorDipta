@@ -21,44 +21,59 @@
 <a href="https://fb.com/ractor dipta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ractor dipta" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools for iOS Developer:</h3>
+<h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-  <a href="https://developer.apple.com" target="_blank" rel="noreferrer">
+  <!-- iOS -->
+  <a href="https://developer.apple.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/ios-filled/50/000000/ios-logo.png" alt="iOS" width="40" height="40"/>
   </a>
+
+  <!-- Xcode -->
   <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Xcode_14_icon.png" alt="Xcode" width="40" height="40"/>
   </a>
+
+  <!-- Swift -->
   <a href="https://www.swift.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/>
   </a>
+
+  <!-- Firebase -->
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
   </a>
+
+  <!-- Figma -->
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
   </a>
-  <a href="https://developer.apple.com/documentation/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/ios-filled/50/000000/api.png" alt="Apple Documentation" width="40" height="40"/>
+
+  <!-- TestFlight -->
+  <a href="https://developer.apple.com/testflight/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/TestFlight_Icon.png" alt="TestFlight" width="40" height="40"/>
   </a>
+
+  <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   </a>
-  <a href="https://www.apple.com/testflight/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/TestFlight_Icon.png" alt="TestFlight" width="40" height="40"/>
+
+  <!-- GitHub -->
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   </a>
 </p>
 
 <!-- GitHub Stats -->
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ractordipta&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ractordipta&show_icons=true&locale=en&layout=compact" alt="ractordipta Top Languages" />
 </p>
 
 <p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ractordipta&show_icons=true&locale=en" alt="GitHub Stats" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ractordipta&show_icons=true&locale=en" alt="ractordipta GitHub Stats" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ractordipta&" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ractordipta&" alt="ractordipta Streak Stats" />
 </p>
